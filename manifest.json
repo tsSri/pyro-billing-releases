@@ -1,8 +1,7 @@
 {
-  "version": "1.2.0",
+  "version": "1.4.0",
   "release_date": "2026-05-14",
-  "release_notes": "Bug fixes, proforma invoice, company switcher improvements",
-  "download_url": "https://your-server.com/updates/PyROBilling-1.2.0-setup.exe",
-  "checksum_sha256": "abc123...",
-  "min_version": "1.0.0"
+  "release_notes": "Initial release — invoice management, proforma invoices, multi-company support",
+  "download_url": "https://raw.githubusercontent.com/tsSri/pyro-billing-releases/main/releases/PYRO_Billing_Setup_1.4.0.exe",
+  "checksum_sha256": ""
 }
